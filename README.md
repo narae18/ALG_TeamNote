@@ -1,2 +1,2 @@
 # ALG_TeamNote
-Algorithm Team Note
+Python3 Algorithm Team Notes
